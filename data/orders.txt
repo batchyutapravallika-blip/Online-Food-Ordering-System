@@ -1,0 +1,5 @@
+1|anshu|103|Sandwich|80|1|Placed
+1|anshu|105|Cold Coffee|60|1|Placed
+2|pravallika|104|Biryani|150|1|Cancelled
+3|anshu|104|Biryani|150|2|Placed
+3|anshu|105|Cold Coffee|60|2|Placed

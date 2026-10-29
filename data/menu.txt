@@ -1,0 +1,5 @@
+101|Burger|100
+102|Pizza|130
+103|Sandwich|80
+104|Biryani|150
+105|Cold Coffee|60
